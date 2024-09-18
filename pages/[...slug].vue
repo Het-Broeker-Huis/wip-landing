@@ -1,6 +1,5 @@
 <template>
-  <main>
+  <div class="pb-32">
     <ContentDoc />
-    <NewsletterSignup />
-  </main>
+  </div>
 </template>

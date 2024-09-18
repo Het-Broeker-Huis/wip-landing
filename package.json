@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "@nuxt/content": "^2.13.2",
+    "@nuxt/image": "^1.8.0",
+    "@nuxt/ui": "^2.18.5",
     "nuxt": "^3.13.0"
   },
   "packageManager": "pnpm@8.3.1+sha1.75c6e8a4075abfc494770f998bf37b9ada110f51"
