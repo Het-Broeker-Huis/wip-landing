@@ -4,5 +4,6 @@ export default defineNuxtConfig({
   modules: ['@nuxt/content'],
   routeRules: {
     '/': { prerender: true }
-  }
+  },
+  compatibilityDate: '2024-09-18'
 })
