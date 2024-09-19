@@ -10,7 +10,7 @@ Herberg het Broeker Huis
 Het Broeker Huis, gelegen in het pittoreske Broek in Waterland, ondergaat de komende maanden een indrukwekkende metamorfose.
 ::
 
-::content-block
+::content-block{image="/het-broeker-huis.jpg"}
 Dit prachtige monumentale pand, beroemd om zijn warme sfeer en hoogwaardige gastvrijheid, krijgt een vernieuwde uitstraling en een uitgebreide keuken. Ondanks de werkzaamheden blijft de herberg gewoon geopend, zodat u kunt blijven genieten van de unieke ambiance, het heerlijke terras en de sfeervolle ruimtes.
 
 Gelegen op een steenworp afstand van Amsterdam, omringd door water en groen, is het Broeker Huis de ideale locatie voor feesten, partijen, evenementen, zakelijke bijeenkomsten en huwelijksvoltrekkingen.

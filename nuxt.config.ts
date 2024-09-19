@@ -11,7 +11,7 @@ export default defineNuxtConfig({
         },
       ],
       bodyAttrs: {
-        class: "text-gray-950 antialiased",
+        class: "text-swamp-green-900 antialiased",
       },
     },
   },
@@ -21,6 +21,5 @@ export default defineNuxtConfig({
   routeRules: {
     "/": { prerender: true },
   },
-
   compatibilityDate: "2024-09-18",
 });
