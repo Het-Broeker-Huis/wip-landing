@@ -26,7 +26,8 @@ const props = defineProps<
         </div>
         <div class="max-lg:order-first max-lg:max-w-lg">
           <div class="aspect-[3/2] overflow-hidden rounded-xl shadow-xl outline-1 -outline-offset-1 outline-black/10">
-            <NuxtImg :src="image" class="block size-full" width="640" placeholder fit="cover" loading="lazy" />
+            <NuxtImg :src="image" class="block size-full" placeholder fit="cover" densities="x1 x2" width="680px"
+              sizes="680px sm:328px " />
           </div>
         </div>
       </div>
