@@ -29,8 +29,14 @@ lekker verhaaltje
 Blijf op de hoogte en schrijf je in voor onze nieuwsbrief
 ::
 
-Of blijf op de hoogte via ons Instagram account:
-
-::social-badge{platform="instagram" url="https://www.instagram.com/het.broeker.huis/"}
+::social-container
+:::social-badge{platform="instagram" url="https://www.instagram.com/het.broeker.huis/"}
 Instagram
+:::
+:::social-badge{platform="facebook" url="https://www.facebook.com/BroekerHuis/"}
+Facebook
+:::
+
+#title
+Of blijf op de hoogte via onze social media kanalen
 ::
