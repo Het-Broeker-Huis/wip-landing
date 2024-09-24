@@ -1,5 +1,5 @@
 <template>
-  <div class="max-w-2xl mx-auto my-20">
+  <div class="max-w-2xl mx-auto my-20 px-6 lg:px-8">
     <div id="mc_embed_signup">
       <form
         action="https://broekerhuis.us21.list-manage.com/subscribe/post?u=1c8c2f6dd5d93679770c29b9b&amp;id=5c058a5ec2&amp;f_id=0007bee6f0"
