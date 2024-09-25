@@ -4,7 +4,7 @@ description: "Komende maanden zal het Broeker Huis een metamorfose ondergaan. De
 ---
 
 ::hero
-Herberg het Broeker Huis
+Het Broeker Huis
 
 #content
 Het Broeker Huis, gelegen in het pittoreske Broek in Waterland, ondergaat de komende maanden een indrukwekkende metamorfose.
