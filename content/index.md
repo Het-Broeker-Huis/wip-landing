@@ -1,6 +1,6 @@
 ---
-title: "Herberg het Broeker Huis in een nieuw jasje"
-description: "Komende maanden zal het Broeker Huis een metamorfose ondergaan. De herberg zal een nieuwe uitstraling krijgen en de keuken zal worden uitgebreid. De herberg blijft gewoon open tijdens de verbouwing."
+title: "Herberg Broeker Huis in een nieuw jasje"
+description: "Komende maanden zal het Broeker Huis een metamorfose ondergaan. De herberg zal een nieuwe uitstraling krijgen en de keuken zal worden uitgebreid. We blijven gewoon open tijdens de verbouwing."
 ---
 
 ::hero
@@ -16,13 +16,13 @@ Dit prachtige monumentale pand, beroemd om zijn warme sfeer en hoogwaardige gast
 Gelegen op een steenworp afstand van Amsterdam, omringd door water en groen, is het Broeker Huis de ideale locatie voor feesten, partijen, evenementen, zakelijke bijeenkomsten en huwelijksvoltrekkingen.
 
 #title
-Het broeker huis
+Herberg Broeker Huis
 
 #subtitle
 Historie
 
 #intro
-lekker verhaaltje
+Maurits riekt naar poep
 ::
 
 ::newsletter-signup
