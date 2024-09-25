@@ -7,29 +7,33 @@ description: Komende maanden zal het Broeker Huis een metamorfose ondergaan. De 
 Het Broeker Huis
 
 #content
-Het Broeker Huis, gelegen in het pittoreske Broek in Waterland, ondergaat de komende maanden een indrukwekkende metamorfose.
+Er breekt een nieuwe tijd aan voor Het Broeker Huis. Reguliere openingstijden, meer ruimte voor verenigingen en dorpsevenementen, een vertrekkende uitbater en een nieuwe ondernemer naast Jeppe.
 ::
 
 ::content-block
 ---
 image: /het-broeker-huis.jpg
 ---
-Dit prachtige monumentale pand, beroemd om zijn warme sfeer en hoogwaardige gastvrijheid, krijgt een vernieuwde uitstraling en een uitgebreide keuken. Ondanks de werkzaamheden blijft de herberg gewoon geopend, zodat u kunt blijven genieten van de unieke ambiance, het heerlijke terras en de sfeervolle ruimtes.
+Al meer dan twintig jaar bestieren de broers Jeppe & Jorrit ons dorpshuis. Door pieken en dalen is de het altijd balanceren geweest tussen de dorpshuisfunctie, en genoeg inkomsten genereren om de gezinnen van de beheerders in hun levenshonderhoud te laten voorzien. Aan deze balanceeract komt nu een einde. De ruimte van de voormalige bibliotheek is vrijgekomen en wordt inmiddels verhuurd aan Het Broeker Huis. Dit betekent dat de feesten en partijen die reguliere opening altijd in de weg zaten, nu verplaatst kunnen worden naar deze nieuwe ruimte.
 
-Gelegen op een steenworp afstand van Amsterdam, omringd door water en groen, is het Broeker Huis de ideale locatie voor feesten, partijen, evenementen, zakelijke bijeenkomsten en huwelijksvoltrekkingen.
+Jorrit stapt uit het Broeker Huis en maakt plaats voor Thomas Sprangers. Geboren en getogen Broeker, zal hij met Jeppe de toekomstplannen vormgeven en van de droom werkelijkheid maken.
+
+De komende maanden staan in het teken van plannen maken, financiering zoeken en flink renoveren om alle plannen werkelijkheid te maken.
+
+
 
 #title
 Herberg Broeker Huis
 
 #subtitle
-Historie
+Wat zijn we aan het doen?
 
 #intro
-Maurits riekt naar poep
+In een notendop
 ::
 
 ::newsletter-signup
-Blijf op de hoogte en schrijf je in voor onze nieuwsbrief
+Blijf op de hoogte en schrijf je in voor updates over het toekomstproces
 ::
 
 ::social-container
