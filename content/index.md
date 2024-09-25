@@ -1,5 +1,5 @@
 ---
-title: "Herberg het Broeker Huis in een nieuw jasje"
+title: "Herberg Broeker Huis in een nieuw jasje"
 description: "Komende maanden zal het Broeker Huis een metamorfose ondergaan. De herberg zal een nieuwe uitstraling krijgen en de keuken zal worden uitgebreid. De herberg blijft gewoon open tijdens de verbouwing."
 ---
 
