@@ -1,42 +1,6 @@
-# Content v2 Minimal Starter
+# Herberg Broekerhuis
 
-Look at the [Content documentation](https://content.nuxt.com/) to learn more.
+[![Deploy to GitHub Pages](https://github.com/Het-Broeker-Huis/wip-landing/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/Het-Broeker-Huis/wip-landing/actions/workflows/deploy.yml)
 
-## Setup
-
-Make sure to install the dependencies:
-
-```bash
-# yarn
-yarn install
-
-# npm
-npm install
-
-# pnpm
-pnpm install
-```
-
-## Development Server
-
-Start the development server on http://localhost:3000
-
-```bash
-npm run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Checkout the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+Het Broeker Huis ligt in Broek in Waterland, één der mooiste dorpen van het land, op zeer korte afstand van Amsterdam. Temidden van veel water en groen is dit prachtige monumentale pand met heerlijk terras en diverse sfeervolle ruimtes een unieke plek; ook uitzonderlijk geschikt voor feesten en partijen, evenementen, zakelijke meetings en huwelijksvoltrekkingen.
+In de wijde omgeving befaamd om de fijne sfeer en de goede kwaliteit!!
