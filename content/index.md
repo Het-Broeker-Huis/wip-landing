@@ -7,7 +7,7 @@ description: Komende maanden zal het Broeker Huis een metamorfose ondergaan. De 
 Het Broeker Huis
 
 #content
-Er breekt een nieuwe tijd aan voor Het Broeker Huis. Reguliere openingstijden, meer ruimte voor verenigingen en dorpsevenementen, een vertrekkende uitbater en een nieuwe ondernemer naast Jeppe.
+Er breekt een nieuwe tijd aan voor Het Broeker Huis. Reguliere openingstijden, meer ruimte voor ontmoetingen, verbindingen en het versterken van gemeenschapskracht., een vertrekkende uitbater en een nieuwe ondernemer naast Jeppe.
 ::
 
 ::content-block
