@@ -14,7 +14,7 @@ Er breekt een nieuwe tijd aan voor Het Broeker Huis. Reguliere openingstijden, m
 ---
 image: /het-broeker-huis.jpg
 ---
-Al meer dan twintig jaar bestieren de broers Jeppe & Jorrit ons dorpshuis. Door pieken en dalen is de het altijd balanceren geweest tussen de dorpshuisfunctie, en genoeg inkomsten genereren om de gezinnen van de beheerders in hun levenshonderhoud te laten voorzien. Aan deze balanceeract komt nu een einde. De ruimte van de voormalige bibliotheek is vrijgekomen en wordt inmiddels verhuurd aan Het Broeker Huis. Dit betekent dat de feesten en partijen die reguliere opening altijd in de weg zaten, nu verplaatst kunnen worden naar deze nieuwe ruimte.
+Al meer dan twintig jaar bestieren de broers Jeppe & Jorrit ons dorpshuis. Door pieken en dalen is de het altijd balanceren geweest tussen de dorpshuisfunctie, en genoeg inkomsten genereren om de gezinnen van de beheerders in hun levenshonderhoud te voorzien. Aan deze balanceeract komt nu een einde. De ruimte van de voormalige bibliotheek is vrijgekomen en wordt inmiddels verhuurd aan Het Broeker Huis. Dit betekent dat de feesten en partijen die reguliere opening altijd in de weg zaten, nu verplaatst kunnen worden naar deze nieuwe ruimte.
 
 Jorrit stapt uit het Broeker Huis en maakt plaats voor Thomas Sprangers. Geboren en getogen Broeker, zal hij met Jeppe de toekomstplannen vormgeven en van de droom werkelijkheid maken.
 
