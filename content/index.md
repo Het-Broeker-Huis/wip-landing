@@ -20,8 +20,6 @@ Jorrit stapt uit het Broeker Huis en maakt plaats voor Thomas Sprangers. Geboren
 
 De komende maanden staan in het teken van plannen maken, financiering zoeken en flink renoveren om alle plannen werkelijkheid te maken.
 
-
-
 #title
 Herberg Broeker Huis
 
