@@ -29,7 +29,7 @@ Herberg Broeker Huis
 Wat gaat er gebeuren?
 
 #intro
-In een notendop
+In het kort
 ::
 
 ::newsletter-signup
