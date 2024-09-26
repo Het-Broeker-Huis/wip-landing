@@ -20,6 +20,8 @@ Jorrit stapt uit het bedrijf en maakt plaats voor Thomas Sprangers. Geboren en g
 
 De komende maanden staan in het teken van vergunningstrajecten, financiering en een flinke renovatie. Hierbij willen we naast onze eigen inzet, zoveel mogelijk kennis en kunde uit het dorp inschakelen.
 
+Wil je niks missen van de voortgang, heb je ideeën of vragen die je met ons wilt delen of wil je misschien zelfs kennis en kunde bijdragen?
+
 #title
 Herberg Broeker Huis
 
@@ -31,7 +33,7 @@ In een notendop
 ::
 
 ::newsletter-signup
-Blijf op de hoogte van het toekomstproces
+Schrijf je dan hier in voor de toekomstnieuwsbrief
 ::
 
 ::social-container
