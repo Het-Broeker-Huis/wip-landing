@@ -7,7 +7,7 @@ description: Er breekt een nieuwe tijd aan voor Het Broeker Huis. Reguliere open
 Het Broeker Huis
 
 #content
-Er breekt een nieuwe tijd aan voor Het Broeker Huis. Reguliere openingstijden, meer ruimte voor ontmoetingen, verbindingen en het versterken van gemeenschapskracht., een vertrekkende uitbater en een nieuwe ondernemer naast Jeppe.
+Er breekt een nieuwe tijd aan voor Het Broeker Huis. Reguliere openingstijden, meer ruimte voor ontmoetingen, verbindingen en het versterken van gemeenschapskracht, een vertrekkende uitbater en een nieuwe ondernemer naast Jeppe.
 ::
 
 ::content-block
@@ -16,15 +16,15 @@ image: /het-broeker-huis.jpg
 ---
 Al meer dan twintig jaar bestieren de broers Jeppe & Jorrit ons dorpshuis. Door pieken en dalen is de het altijd balanceren geweest tussen de dorpshuisfunctie, en genoeg inkomsten genereren om de gezinnen van de beheerders in hun levenshonderhoud te voorzien. Aan deze balanceeract komt nu een einde. De ruimte van de voormalige bibliotheek is vrijgekomen en wordt inmiddels verhuurd aan Het Broeker Huis. Dit betekent dat de feesten en partijen die reguliere opening voor het dorp altijd in de weg zaten, nu verplaatst kunnen worden naar deze nieuwe ruimte.
 
-Jorrit stapt uit het Broeker Huis en maakt plaats voor Thomas Sprangers. Geboren en getogen Broeker, zal hij met Jeppe de toekomstplannen vormgeven en van de droom werkelijkheid maken.
+Jorrit stapt uit het Broeker Huis en maakt plaats voor Thomas Sprangers. Geboren en getogen Broeker, zal hij samen met Jeppe de toekomstplannen vormgeven en van de droom werkelijkheid maken.
 
-De komende maanden staan in het teken van plannen maken, financiering zoeken en een renovatietraject om alle plannen werkelijkheid te maken.
+De komende maanden staan in het teken van vergunningstrajecten, financiering en een flinke renovatie om alle plannen werkelijkheid te maken. Hierbij willen we naast onze eigen inzet, zoveel mogelijk kennis en kunde uit het dorp inschakelen.
 
 #title
 Herberg Broeker Huis
 
 #subtitle
-Wat zijn we aan het doen?
+Wat gaat er gebeuren?
 
 #intro
 In een notendop
@@ -48,5 +48,5 @@ Blijf op de hoogte van het toekomstproces
   :::
 
 #title
-Of blijf op de hoogte via onze social media kanalen
+En volg onze social media kanalen
 ::
