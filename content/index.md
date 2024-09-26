@@ -31,7 +31,7 @@ In een notendop
 ::
 
 ::newsletter-signup
-Blijf op de hoogte en schrijf je in voor updates over het toekomstproces
+Blijf op de hoogte van het toekomstproces
 ::
 
 ::social-container
