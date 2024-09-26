@@ -1,6 +1,6 @@
 ---
-title: Herberg Broeker Huis in een nieuw jasje
-description: Komende maanden zal het Broeker Huis een metamorfose ondergaan. De herberg zal een nieuwe uitstraling krijgen en de keuken zal worden uitgebreid. De herberg blijft gewoon open tijdens de verbouwing.
+title: Het Broeker Huis van de toekomst
+description: Er breekt een nieuwe tijd aan voor Het Broeker Huis. Reguliere openingstijden, meer ruimte voor ontmoetingen, verbindingen en het versterken van gemeenschapskracht., een vertrekkende uitbater en een nieuwe ondernemer naast Jeppe.
 ---
 
 ::hero
