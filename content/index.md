@@ -33,7 +33,7 @@ In het kort
 ::
 
 ::newsletter-signup
-Schrijf je dan hier in voor de toekomstnieuwsbrief
+Schrijf je hier in voor de toekomstnieuwsbrief
 ::
 
 ::social-container
